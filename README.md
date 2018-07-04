@@ -1,4 +1,4 @@
 # README
 
 Hello world
-Added for feature/b
+Added for feature/a and b
